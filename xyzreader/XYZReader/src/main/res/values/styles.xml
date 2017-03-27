@@ -23,6 +23,7 @@
 
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:fontFamily">Roboto</item>
     </style>
 
 </resources>
