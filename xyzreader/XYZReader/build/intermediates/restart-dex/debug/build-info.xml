@@ -6,29 +6,23 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1490731742191"
+    timestamp="1490735686186"
     token="-936940881686515677"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1965" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="267" />
+        duration="0" />
     <task
         name="verifier"
-        duration="84" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\Brian\Desktop\Udacity\AndroidNanodegree\MaterialDesign\MaterialDesign\xyzreader\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Brian\Desktop\Udacity\AndroidNanodegree\MaterialDesign\MaterialDesign\xyzreader\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\Brian\Desktop\Udacity\AndroidNanodegree\MaterialDesign\MaterialDesign\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
         type="SPLIT_MAIN" />
@@ -76,7 +70,18 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1490731742191"
+        timestamp="1490733283090"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Brian\Desktop\Udacity\AndroidNanodegree\MaterialDesign\MaterialDesign\xyzreader\XYZReader\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Brian\Desktop\Udacity\AndroidNanodegree\MaterialDesign\MaterialDesign\xyzreader\XYZReader\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1490735651396"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Brian\Desktop\Udacity\AndroidNanodegree\MaterialDesign\MaterialDesign\xyzreader\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -84,6 +89,11 @@
         <artifact
             location="C:\Users\Brian\Desktop\Udacity\AndroidNanodegree\MaterialDesign\MaterialDesign\xyzreader\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1490735686186"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Brian\Desktop\Udacity\AndroidNanodegree\MaterialDesign\MaterialDesign\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="SPLIT_MAIN" />

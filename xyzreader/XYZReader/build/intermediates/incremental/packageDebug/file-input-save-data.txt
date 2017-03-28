@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 28 16:09:15 EDT 2017
+#Tue Mar 28 17:14:47 EDT 2017
 122.file=C\:\\Users\\Brian\\Desktop\\Udacity\\AndroidNanodegree\\MaterialDesign\\MaterialDesign\\xyzreader\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\snackbar_out.xml
 60.set=ANDROID_RESOURCE
 129.file=C\:\\Users\\Brian\\Desktop\\Udacity\\AndroidNanodegree\\MaterialDesign\\MaterialDesign\\xyzreader\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
