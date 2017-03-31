@@ -2162,7 +2162,7 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f0d003d;
         public static final int alertTitle=0x7f0d0047;
         public static final int always=0x7f0d002b;
-        public static final int app_bar_layout=0x7f0d006a;
+        public static final int app_bar_layout=0x7f0d0068;
         public static final int article_body=0x7f0d0072;
         public static final int article_byline=0x7f0d0071;
         public static final int article_subtitle=0x7f0d0077;
@@ -2228,7 +2228,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f0d0005;
         public static final int progress_horizontal=0x7f0d0006;
         public static final int radio=0x7f0d0051;
-        public static final int recycler_view=0x7f0d0069;
+        public static final int recycler_view=0x7f0d006a;
         public static final int refresh=0x7f0d0085;
         public static final int right=0x7f0d0025;
         public static final int screen=0x7f0d0036;
@@ -2261,7 +2261,7 @@ containing a value of this type.
         public static final int start=0x7f0d0026;
         public static final int status_bar_latest_event_content=0x7f0d007a;
         public static final int submit_area=0x7f0d0062;
-        public static final int swipe_refresh_layout=0x7f0d0068;
+        public static final int swipe_refresh_layout=0x7f0d0069;
         public static final int tabMode=0x7f0d000c;
         public static final int text=0x7f0d0082;
         public static final int text2=0x7f0d0080;
