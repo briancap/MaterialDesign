@@ -11,7 +11,7 @@ public class Config {
         try {
             url = new URL("https://raw.githubusercontent.com/Protino/dump/master/Lego/data.json" );
         } catch (MalformedURLException ignored) {
-            // TODO: throw a real error
+            ignored.printStackTrace();
         }
 
         BASE_URL = url;

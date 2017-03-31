@@ -31,9 +31,11 @@ public class ArticleDetailActivity extends ActionBarActivity
 
     private long mSelectedItemId;
     private int mSelectedItemUpButtonFloor = Integer.MAX_VALUE;
+    private int mTopInset;
 
     private ViewPager mPager;
     private MyPagerAdapter mPagerAdapter;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -68,6 +70,7 @@ public class ArticleDetailActivity extends ActionBarActivity
                 mSelectedItemId = mCursor.getLong(ArticleLoader.Query._ID);
             }
         });
+
 
         if (savedInstanceState == null) {
             if (getIntent() != null && getIntent().getData() != null) {
